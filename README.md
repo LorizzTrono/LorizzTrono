@@ -1,4 +1,4 @@
-👋 Hey there! I'm Loris Trono, currently an 11th-grade student. Nice to meet you all!
+👋 Hey there! I'm Loris Trono, currently an 11th-grade student at ITI Majorana(TO). Nice to meet you all!
 
 About My Current Work & Studies:
 

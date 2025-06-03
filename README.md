@@ -1,6 +1,6 @@
-**Aspiring game developer|ITI Majorana|Passionate about computer science (generally for now)
+**Aspiring game developer|ITI Majorana|Passionate about computer science (generally for now)**
 
-##👋 Hey there! 
+##👋 Hey there!##
 
 I'm Loris Trono, currently an 11th-grade student, currently living in Italy(TO). Nice to meet you all!
 

@@ -1,4 +1,8 @@
-👋 Hey there! I'm Loris Trono, currently an 11th-grade student at ITI Majorana(TO). Nice to meet you all!
+**Aspiring game developer|ITI Majorana|Passionate about computer science (generally for now)
+
+##👋 Hey there! 
+
+I'm Loris Trono, currently an 11th-grade student, currently living in Italy(TO). Nice to meet you all!
 
 About My Current Work & Studies:
 

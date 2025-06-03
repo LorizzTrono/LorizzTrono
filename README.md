@@ -1,4 +1,4 @@
-## I'm Loris Trono | Aspiring game developer | ITI Majorana | Passionate about computer science (Javascript,C++)
+# Loris Trono | Aspiring game developer | ITI Majorana | Passionate about computer science (Javascript,C++)
 
 I'm Loris Trono, currently an 11th-grade student, currently living in Italy(TO). Nice to meet you all!
 
